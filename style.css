@@ -27,10 +27,10 @@ text-align: right;
 clear: both;
 }
 body {
-background: #5c6602;
+background: #5f5f5f;
 text-align: center;
 font: 11px verdana, arial, sans-serif;
-color: #695F4C;
+color: #694d4c;
 padding-bottom: 10px;
 }
 /** layout **/
@@ -38,7 +38,7 @@ padding-bottom: 10px;
 text-align: left;
 margin: 37px auto;
 width: 672px;
-background: #1c8a06;
+background: #000000;
 position: relative;
 }
 #header {
@@ -169,10 +169,10 @@ padding-bottom: 10px;
 #categories h2 {
 color: #fff;
 padding: 4px 0 5px 39px;
-background: #847A67;
+background: #846767;
 }
 #categories li {
-background: #D4CAB6 left url(images/bullet.gif) no-repeat;
+background: #D4CAB6 left url(images/ddd.jpg) no-repeat;
 border-top: 1px solid #F4EFDF;
 list-style: none;
 font-size: 12px;
@@ -186,7 +186,7 @@ color: #000000;
 text-decoration: underline;
 }
 #collection {
-background: #D4CAB6 bottom right url(images/ddd.jpg) no-repeat;
+background: #d18b00 bottom right url(images/ddd.jpg) no-repeat;
 }
 #collection .inner {
 padding-right: 98px;
@@ -222,18 +222,18 @@ height: 146px;
 float: left;
 width: 195px;
 margin-right: 3px;
-background: url(images/ee.jpg) no-repeat;
+background: url(images/15.jpg) no-repeat;
 }
 #seas-two {
 float: left;
 width: 249px;
 margin-right: 3px;
-background: url(images/rr.jpg) no-repeat;
+background: url(images/16.jpg) no-repeat;
 }
 #seas-three {
 float: left;
 width: 222px;
-background: url(images/qq.jpg) no-repeat;
+background: url(images/17.jpg) no-repeat;
 }
 #seas p {
 text-align: right;
@@ -250,5 +250,5 @@ font-size: 16px;
 text-align: center;
 font-size: 9px;
 padding: 3px;
-color: #AAA;
+color: rgb(250, 1, 1);
 }
